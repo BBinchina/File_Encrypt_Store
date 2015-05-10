@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015/4/28 15:08:00。
+     1>项目“E:\vs2010Projects\File_Encrypt_Store\File_Encrypt_Store\File_Encrypt_Store.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\File_Encrypt_Store.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         File_Encrypt_Store.vcxproj -> E:\vs2010Projects\File_Encrypt_Store\Win32\Debug\File_Encrypt_Store.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\File_Encrypt_Store.unsuccessfulbuild”。
+         正在对“Debug\File_Encrypt_Store.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\vs2010Projects\File_Encrypt_Store\File_Encrypt_Store\File_Encrypt_Store.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.66
